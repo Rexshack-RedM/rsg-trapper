@@ -527,9 +527,15 @@ Config.Pelts = { -- reward item false or 'itemname'
 		["reward"] = 100,
 		["rewarditem"] = false
 	},
-    [76] =  { -- mp_a_c_wolf_01 / Legendary Onyx Wolf
+    [76] =  { -- ? / Legendary Onyx Wolf
 		["pelthash"] = -1548204069,
 		["name"] = "Legendary Onyx Wolf Pelt",
+		["reward"] = 100,
+		["rewarditem"] = false
+	},
+    [77] =  { -- mp_a_c_wolf_01 / Legendary Emerald Wolf Pelt
+		["pelthash"] = -1946740647,
+		["name"] = "Legendary Emerald Wolf Pelt",
 		["reward"] = 100,
 		["rewarditem"] = false
 	},
