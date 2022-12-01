@@ -13,12 +13,12 @@ Config.Blip = {
 -- prompt locations
 Config.TrapperLocations = {
 
-	{name = 'Valentine Trapper',		location = 'valentine-trapper',			coords = vector3(-334.2203, 773.16943, 116.24839),	showblip = true}, --valentine
-	{name = 'St Denis Trapper',			location = 'stdenis-trapper',			coords = vector3(2832.2661, -1223.746, 194.07852),	showblip = true}, --stdenis
-	{name = 'Riggs Station Trapper',	location = 'riggsstation-trapper',		coords = vector3(-1006.938, -549.3896, 99.393592),	showblip = true}, --riggsstation
-	{name = 'West Elizabeth Trapper',	location = 'westelizabeth-trapper',		coords = vector3(-2843.525, 142.12048, 184.59883),	showblip = true}, --westelizabeth
-	{name = 'Stawberry Trapper',		location = 'stawberry-trapper', 		coords = vector3(-1746.238, -388.9359, 101.29882),	showblip = true}, --stawberry
-	{name = 'Tumbleweed Trapper',		location = 'tumbleweed-trapper', 		coords = vector3(-5512.208, -2952.122, -1.791797),	showblip = true}, --tumbleweed
+	{name = 'Valentine Trapper',		location = 'valentine-trapper',			coords = vector3(-334.2203, 773.16943, 116.24839),	showblip = true, showmarker = true }, --valentine
+	{name = 'St Denis Trapper',			location = 'stdenis-trapper',			coords = vector3(2832.2661, -1223.746, 194.07852),	showblip = true, showmarker = true }, --stdenis
+	{name = 'Riggs Station Trapper',	location = 'riggsstation-trapper',		coords = vector3(-1006.938, -549.3896, 99.393592),	showblip = true, showmarker = true }, --riggsstation
+	{name = 'West Elizabeth Trapper',	location = 'westelizabeth-trapper',		coords = vector3(-2843.525, 142.12048, 184.59883),	showblip = true, showmarker = true }, --westelizabeth
+	{name = 'Stawberry Trapper',		location = 'stawberry-trapper', 		coords = vector3(-1746.238, -388.9359, 101.29882),	showblip = true, showmarker = true }, --stawberry
+	{name = 'Tumbleweed Trapper',		location = 'tumbleweed-trapper', 		coords = vector3(-5512.208, -2952.122, -1.791797),	showblip = true, showmarker = true }, --tumbleweed
 	
 }
 
