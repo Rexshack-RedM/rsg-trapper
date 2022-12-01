@@ -7,7 +7,6 @@ description 'rsg-trapper'
 
 client_scripts {
 	'client/client.lua',
-	'client/npc.lua',
 }
 
 server_scripts {
